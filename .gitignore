@@ -1,0 +1,5 @@
+media/
+qa_frames/
+audio/
+__pycache__/
+*.log
